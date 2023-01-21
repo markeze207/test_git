@@ -1,5 +1,6 @@
 <?php
-function testMergeConflict2()
+
+function testMergeConflict()
 {
-    echo 'test2';
+    echo 'test';
 }
